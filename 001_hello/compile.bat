@@ -1,0 +1,1 @@
+nvcc.exe -gencode=arch=compute_61,code=\"sm_61,compute_61\"  hello.cu -o hello 

@@ -1,0 +1,6 @@
+sm_35, and sm_37	Basic features + Kepler support + Unified memory programming + Dynamic parallelism support
+sm_50, sm_52 and sm_53	+ Maxwell support
+sm_60, sm_61, and sm_62	+ Pascal support
+sm_70 and sm_72	+ Volta support
+sm_75	+ Turing support
+sm_80, sm_86 and sm_87	+ NVIDIA Ampere GPU architecture support
